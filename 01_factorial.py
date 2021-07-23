@@ -1,3 +1,5 @@
+# QUESTION
+
 """
 FIRST FACTORIAL
 
@@ -9,6 +11,8 @@ between 1 and 18 and the input will always be an integer.
 Use the Parameter Testing feature in the box below to test your code with
 different arguments.
 """
+
+# SOLUTION
 
 def factorial (num):
     value = 1
