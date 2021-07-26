@@ -30,3 +30,8 @@ def cal (x):
     return ",".join(result) if len(result) > 0  else False
 
 cal(["1, 3, 4, 7, 13", "1, 2, 4, 13, 15"])
+
+
+# OUTPUT
+
+'1, 4, 13'
